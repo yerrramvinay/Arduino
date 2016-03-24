@@ -1,0 +1,7 @@
+l293d     KEYWORD1
+
+dc_Init	  KEYWORD2
+front  	  KEYWORD2
+back	  KEYWORD2
+left	  KEYWORD2
+right     KEYWORD2
